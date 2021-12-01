@@ -1,0 +1,2 @@
+# Knn-training-of-metrics-unbalanced-tasks
+In the first part, the problem of finding nearest neighbors and training various metrics will be solved. (euclidean, manhattan, minkowski metrics).  In the second part, we will analyze the basic techniques of working in problems where one of the classes occupies a significantly smaller proportion of the sample than the others. For simplicity, we will get by with a binary task; nevertheless, in many respects, these methods can be transferred to tasks with a large number of classes.
